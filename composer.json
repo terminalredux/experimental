@@ -1,6 +1,7 @@
 {
 	"name": "jeleniaplast/domain",
 	"description": "Domain and shared code for Jelenia Plast Company",
+	"type":"package",
     "authors": [
         {
             "name": "Robert Czaja",
