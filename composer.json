@@ -1,7 +1,8 @@
 {
 	"name": "terminalredux/experimental",
 	"description": "Domain and shared code for Jelenia Plast Company",
-	"type":"package",
+	"type": "library",
+	"license": "MIT",
     "authors": [
         {
             "name": "Robert Czaja",
