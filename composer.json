@@ -1,4 +1,15 @@
 {
+	"name": "jeleniaplast/domain",
+	"description": "Domain and shared code for Jelenia Plast Company",
+    "authors": [
+        {
+            "name": "Robert Czaja",
+            "email": "r.czaja@jeleniaplast.com"
+        }
+    ],
+	"require": {
+        "php": "7.0.*"
+    },
 	"autoload" : {
 		"psr-4" : {
 			"" : "src/"
